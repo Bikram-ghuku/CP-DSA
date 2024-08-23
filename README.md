@@ -7,5 +7,4 @@
 - [CodeForces](https://codeforces.com/profile/khas_mithai)
 - [CodeChef](https://www.codechef.com/users/bikramghuku)
 - [HackerRank](https://www.hackerrank.com/bikramghuku05)
-- [GeeksForGeeks](geeksforgeeks.org/user/bikramghuku05/)
-
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/bikramghuku05/)
